@@ -1,0 +1,28 @@
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\bin\Debug\net6.0\ejercicioNicole.exe
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\bin\Debug\net6.0\ejercicioNicole.deps.json
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\bin\Debug\net6.0\ejercicioNicole.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\bin\Debug\net6.0\ejercicioNicole.dll
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\bin\Debug\net6.0\ejercicioNicole.pdb
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\obj\Debug\net6.0\ejercicioNicole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\obj\Debug\net6.0\ejercicioNicole.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\obj\Debug\net6.0\ejercicioNicole.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\obj\Debug\net6.0\ejercicioNicole.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\obj\Debug\net6.0\ejercicioNicole.dll
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\obj\Debug\net6.0\refint\ejercicioNicole.dll
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\obj\Debug\net6.0\ejercicioNicole.pdb
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\obj\Debug\net6.0\ejercicioNicole.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\ejercicioNicole\obj\Debug\net6.0\ref\ejercicioNicole.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\bin\Debug\net6.0\ejercicioNicole.exe
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\bin\Debug\net6.0\ejercicioNicole.deps.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\bin\Debug\net6.0\ejercicioNicole.runtimeconfig.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\bin\Debug\net6.0\ejercicioNicole.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\bin\Debug\net6.0\ejercicioNicole.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\obj\Debug\net6.0\ejercicioNicole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\obj\Debug\net6.0\ejercicioNicole.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\obj\Debug\net6.0\ejercicioNicole.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\obj\Debug\net6.0\ejercicioNicole.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\obj\Debug\net6.0\ejercicioNicole.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\obj\Debug\net6.0\refint\ejercicioNicole.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\obj\Debug\net6.0\ejercicioNicole.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\obj\Debug\net6.0\ejercicioNicole.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\Solucion y correcion\ejercicioDavidMuñoz\obj\Debug\net6.0\ref\ejercicioNicole.dll

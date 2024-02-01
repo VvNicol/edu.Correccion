@@ -1,0 +1,44 @@
+Concepto principal: 
+
+Minijuego-Adivina la palabra.
+Crearemos un juego simple de adivinanza. El jugador debe adivinar una palabra al azar
+
+
+
+Enunciado:
+ 
+El juego se puede jugar por consola,tendremos que tener un minimo de 3 palabras
+para adivinar, la seleccion de la palabra debera ser ramdom. 
+esta palabra deberade mostrar por consola cuantas letras tiene para adivinarla.
+
+El jugador tendra que ingresar una palabra y mostrar por consola los numeros de intentos que tiene.
+
+Al ingresar la palabra el programa debera de verificar que la palabra es la correcta, si es
+correcta este debera de mostrar un mensaje "Has ganado" en caso contrario, le seguira
+pidiendo que ingrese otra palabra y el numero de intentos disminuye.
+
+al acabarse los intentos debera de mostrar un mensje que ha perdido y mostrar la 
+palabra secreta.
+
+
+
+Criterio:
+
+Selección Aleatoria de Palabras y Longitud de la Palabra (2 puntos):
+
+	1 punto: Seleccionar palabras aleatorias correctamente.
+	1 punto: Mostrar correctamente la longitud de la palabra.
+
+Manejo de Intentos y Verificación de Palabra Aleatoria (4 puntos):
+
+	2 puntos: Limitar al jugador a un número específico de intentos.
+	2 puntos: Verificar si la palabra aleatoria es correcta.
+
+Manejo de Errores, Optimización, Estructura y Claridad de Código (2 puntos):
+
+	2 puntos: Manejo de errores, optimización, estructura, comentarios y claridad del código.
+
+Interfaz de Usuario y Mensajes de Resultado (2 puntos):
+
+	1 punto: Interfaz de usuario clara y fácil de entender.
+	1 punto: Muestra un mensaje adecuado si el jugador gana o pierde.

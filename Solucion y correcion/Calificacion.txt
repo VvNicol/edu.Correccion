@@ -1,0 +1,60 @@
+CRITERIO:
+
+Selección Aleatoria de Palabras y Longitud de la Palabra (2 puntos):
+
+	1 punto: Seleccionar palabras aleatorias correctamente.
+	1 punto: Mostrar correctamente la longitud de la palabra.
+
+Manejo de Intentos y Verificación de Palabra Aleatoria (4 puntos):
+
+	2 puntos: Limitar al jugador a un número específico de intentos.
+	2 puntos: Verificar si la palabra aleatoria es correcta.
+
+Manejo de Errores, Optimización, Estructura y Claridad de Código (2 puntos):
+
+	2 puntos: Manejo de errores, optimización, estructura, comentarios y claridad del código.
+
+Interfaz de Usuario y Mensajes de Resultado (2 puntos):
+
+	1 punto: Interfaz de usuario clara y fácil de entender.
+	1 punto: Muestra un mensaje adecuado si el jugador gana o pierde.
+----------------------------------------------------------------
+Calificacion segun los criterios:
+
+Selección Aleatoria de Palabras y Longitud de la Palabra (2 puntos):
+
+	1 punto: Seleccionar palabras aleatorias correctamente.
+comentario: Uso del random correctamente al seleccionar las palabras.
+
+	1 punto: Mostrar correctamente la longitud de la palabra.
+comentario: se calcula y se puestra correctamente la longitud de la palabra secreta.
+
+###Calificacion: 2 puntos
+
+Manejo de Intentos y Verificación de Palabra Aleatoria (4 puntos):
+
+	2 puntos: Limitar al jugador a un número específico de intentos.
+comentario: Uso del bucle for para controlar los intentos y muestra los el numero de los intentos restantes
+
+	2 puntos: Verificar si la palabra aleatoria es correcta.
+comentario:Se verifica cada vez que la palabra ingresada por el jugador es correcta y muestra el mensaje adecuado.
+
+###Calificacion: 4 puntos
+
+Manejo de Errores, Optimización, Estructura y Claridad de Código (2 puntos):
+
+	1 puntos: Manejo de errores, optimización, estructura, comentarios y claridad del código.
+comentario: El codigo es relativamente claro, se puede mejorar la estructura
+
+###Calificacion: 1 punto
+
+Interfaz de Usuario y Mensajes de Resultado (2 puntos):
+
+	0.7 punto: Interfaz de usuario clara y fácil de entender.
+comentario: los mensajes son claron sin embargo falto poner que es un juego de adivinar la palabra pero proporciona instrucciones adecuadas.
+
+	1 punto: Muestra un mensaje adecuado si el jugador gana o pierde.
+comentario: Se muestra claramente el mensaje que indica si ha gaanado o perdido.
+###Calificacion: 1.7
+
+CALIFICACION FINAL : 8.7

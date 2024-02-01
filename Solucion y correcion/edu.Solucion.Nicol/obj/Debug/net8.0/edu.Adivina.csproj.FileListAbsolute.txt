@@ -1,0 +1,14 @@
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\bin\Debug\net8.0\edu.Adivina.exe
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\bin\Debug\net8.0\edu.Adivina.deps.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\bin\Debug\net8.0\edu.Adivina.runtimeconfig.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\bin\Debug\net8.0\edu.Adivina.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\bin\Debug\net8.0\edu.Adivina.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\obj\Debug\net8.0\edu.Adivina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\obj\Debug\net8.0\edu.Adivina.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\obj\Debug\net8.0\edu.Adivina.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\obj\Debug\net8.0\edu.Adivina.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\obj\Debug\net8.0\edu.Adivina.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\obj\Debug\net8.0\refint\edu.Adivina.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\obj\Debug\net8.0\edu.Adivina.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\obj\Debug\net8.0\edu.Adivina.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Adivina\obj\Debug\net8.0\ref\edu.Adivina.dll
